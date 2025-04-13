@@ -8,7 +8,7 @@
 
 ## 📹 Video Pitch
 
-📽️ [Watch the 2-min Demo Pitch](https://your-demo-video-link.com)  
+📽️ [Watch the 2-min Demo Pitch]([https://your-demo-video-link.com](https://youtu.be/vmEJmdc8J4Q))  
 *(Replace with Loom/YouTube link before submission)*
 
 ---
